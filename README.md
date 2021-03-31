@@ -9,9 +9,9 @@ Step 4: Design the screens
 Step 5: App Architecture
 Step 6: Flow/Sequence Diagrams
 
-Component: Any visual component that you can see on your screen is basically called the React Component. 
+# Component: Any visual component that you can see on your screen is basically called the React Component. 
 
-Components used in this Name It Project. 
+### Components used in this Name It Project. 
 1. Container Component - App (Outer)
 2. Header Component
 3. Search Box Component
