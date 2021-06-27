@@ -1,5 +1,18 @@
 # Name It
 
+The whole process to make complex applications goes as follows :
+
+💥 Ideating,
+💥 Thinking, 
+💥 Sketching, 
+💥 Making wireframes and prototypes,
+💥 Finalizing the designs, 
+💥 Thinking about the app architecture, 
+💥 Finalizing the flow, 
+💥 Making sequence and flow diagrams, 
+💥 Deciding the methods/algorithms to implement
+💥 Setting up the dev environment
+
 Ideate, Design, Build are basically main steps to build any Project. 
 
 Step 1: Ideate
